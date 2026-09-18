@@ -49,7 +49,6 @@ Memory servers that connect to any Model Context Protocol client (Claude, Cursor
 - [Firekeep](https://github.com/kapella-hub/FirekeepHQ) - BUSL-1.1 self-hosted MCP operating layer that shares durable knowledge, working state, cooperative coordination leases, and replay evidence across Claude Code, Codex, Kiro, and OpenCode.
 - [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) - Hosted persistent memory over MCP; one key or OAuth across MCP clients.
 - [OpenMemory](https://github.com/mem0ai/mem0/tree/main/openmemory) - Local-first, private MCP memory server (part of the Mem0 project).
-
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - MCP server for searching screen text and audio transcripts captured by a running Screenpipe instance, with source available under the Screenpipe Commercial License.
 
 ## Benchmarks and evaluation
